@@ -12,7 +12,7 @@ A atividade consiste em visualizar a distribuição normal padrão, identificar 
 
 **3. Definição da região crítica:** Identificação da área de rejeição considerando um teste unilateral à direita.
 
-**4. Visualização gráfica::** Plotagem da distribuição, marcação da estatística Z e destaque da região crítica.
+**4. Visualização gráfica:** Plotagem da distribuição, marcação da estatística Z e destaque da região crítica.
 
 **5. Interpretação do teste de hipótese:** Análise da posição da estatística em relação à região crítica e ao nível de significância.
 
